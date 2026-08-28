@@ -1,1 +1,0 @@
-Put your CV here as assets/Vedant_Banglekar_CV.pdf and replace the placeholder LinkedIn/GitHub/email links in index.html.
